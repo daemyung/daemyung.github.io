@@ -106,7 +106,7 @@ sources:
 ##############################
 sharing:
   provider: false
- 
+
   ## AddThis
   addthis:
     id:
@@ -115,29 +115,18 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: false
+  provider: disqus
 
-  ## Disqus
   disqus:
-    shortname: 
+    shortname: daemyung-github-io
 
-  ## Gitalk
-  # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
-    clientID    :
-    clientSecret:
-    repository  :
-    owner       :
+    clientID    : f4ce35ea2dca3b4091ab
+    clientSecret: e8cb09fb020276a474e0eb6474018cb8b443e452
+    repository  : daemyung.github.io
+    owner       : daemyung
     admin:
-
-  ## Valine
-  # please refer to https://valine.js.org/en/ for more info.
-  valine:
-    app_id      :
-    app_key     :
-    placeholder :
-    visitor     :
-    meta        :
+      - daemyung
 
 
 ## => Pageview
