@@ -154,11 +154,11 @@ search:
 ## => Analytics
 ##############################
 analytics:
-  provider: false
+  provider: google
 
   ## Google Analytics
   google:
-    tracking_id :
+    tracking_id : G-3S175S4VMP
     anonymize_ip: false
 
 
