@@ -1,6 +1,6 @@
 ---
 title: CLO Virtual Fashion 면접 후기
-tags: 면접
+tags: 회사 면접
 key: 202312231716
 ---
 
