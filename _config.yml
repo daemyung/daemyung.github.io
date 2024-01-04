@@ -115,7 +115,7 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: disqus
+  provider: gitalk
 
   disqus:
     shortname: daemyung-github-io
