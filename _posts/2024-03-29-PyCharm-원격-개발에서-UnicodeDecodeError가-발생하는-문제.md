@@ -1,12 +1,12 @@
-```yaml
+---
 title: PyCharm 원격 개발에서 UnicodeDecodeError가 발생하는 문제
 tags: JetBrains PyCharm
 key: 202401031801
-```
+---
 
 안녕하세요 삼각형입니다.
 
-PyCharm 원격 개발에서 `UnicodeDecodeError: 'utf-8' codec can't decode byte 0x80 in position 64: invalid start byte`가 발생하는 경우가 있습니다. 이를 해결하는 방법은 다음과 같습니다.
+PyCharm 원격 개발에서 `UnicodeDecodeError: 'utf-8' codec can't decode byte 0x80 in position 64: invalid start byte`가 발생하는 경우가 있습니다. 이를 해결하는 방법은 다음과 같습니다.
 
 1. 에러 메세지에서 `site.py`의 경로를 확인합니다.
    
